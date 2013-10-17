@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Luxmetre</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="light_label">lux</string>
+    <string name="shutter_label">s</string>
+    <string name="shutter_value_hint">1</string>
+    <string name="aperture_label">f</string>
+    <string name="aperture_value_hint">1.8</string>
+    <string name="sensitivity_label">ISO</string>
+    <string name="sensitivity_value_hint">100</string>
+    <string name="result_label">Rslt</string>
+    <string name="reset_button">Reset</string>
+    <string name="validate_button">OK</string>
+    <string name="light_button">Pause</string>
+
+</resources>
